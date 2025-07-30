@@ -46,7 +46,7 @@ import {
   PaginationPrevious,
 } from "@/components/ui/pagination"
 
-// Define the Case interface with all detailed properties
+
 interface Case {
   id: string
   title: string // Detailed property
